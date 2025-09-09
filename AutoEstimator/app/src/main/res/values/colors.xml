@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brandBlue">#3B82F6</color>
+    <color name="brandBlueDark">#1E40AF</color>
+    <color name="chipSevereStart">#F97316</color>
+    <color name="chipSevereEnd">#DC2626</color>
+    <color name="cardBg">#F5F7FB</color>
+    <color name="textDark">#222222</color>
+    <color name="textLight">#777777</color>
+</resources>
