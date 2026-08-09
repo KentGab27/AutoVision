@@ -1,3 +1,4 @@
+<img width="683" height="386" alt="Screenshot (5613)" src="https://github.com/user-attachments/assets/05fed19a-7d5c-4a36-b383-54db6aa4ca64" />
 # Auto Vision: A YOLO - Based External Sedan car Damage Detection and Cost Estimation System 
 
 Paper DOI: http://dx.doi.org/10.1117/12.3115838
@@ -9,8 +10,9 @@ This study presents the development and evaluation of Auto Vision: A YOLO-based 
 Auto Vision is an AI-powered mobile application that automates sedan damage assessment. It uses YOLOv8 to detect and classify exterior vehicle damage and a Decision Tree algorithm to estimate repair costs, providing a faster and more consistent alternative to traditional vehicle inspection methods.
 
 ## Conceptual Framework
-<p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/286b7c65-45d0-4d72-8760-7da9da508e7a)">
+<p align="center>
+  <img width="683" height="386" alt="Screenshot (5613)" src="https://github.com/user-attachments/assets/6ea87d08-8045-4b2b-ba65-50e292421c75" />
 </p>
+
 
 
