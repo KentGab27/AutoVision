@@ -1,4 +1,3 @@
-<img width="683" height="386" alt="Screenshot (5613)" src="https://github.com/user-attachments/assets/05fed19a-7d5c-4a36-b383-54db6aa4ca64" />
 # Auto Vision: A YOLO - Based External Sedan car Damage Detection and Cost Estimation System 
 
 Paper DOI: http://dx.doi.org/10.1117/12.3115838
@@ -11,7 +10,7 @@ Auto Vision is an AI-powered mobile application that automates sedan damage asse
 
 ## Conceptual Framework
 <p align="center>
-  <img width="683" height="386" alt="Screenshot (5613)" src="https://github.com/user-attachments/assets/6ea87d08-8045-4b2b-ba65-50e292421c75" />
+  <img width="683" height="386" alt="Screenshot (5613)" src="https://github.com/user-attachments/assets/05fed19a-7d5c-4a36-b383-54db6aa4ca64" />
 </p>
 
 
