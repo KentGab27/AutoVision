@@ -10,6 +10,7 @@ Auto Vision is an AI-powered mobile application that automates sedan damage asse
 
 ## Conceptual Framework
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/286b7c65-45d0-4d72-8760-7da9da508e7a)">
 </p>
+
 
