@@ -2,7 +2,7 @@
 
 Paper DOI: http://dx.doi.org/10.1117/12.3115838
 
-Author's Github:
+Other Author's Github:
 - HJZ2002
 - JBCerbo 
 
